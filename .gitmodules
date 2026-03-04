@@ -1,6 +1,3 @@
-[submodule "Mesen2"]
-	path = Mesen2
-	url = https://github.com/SourMesen/Mesen2.git
 [submodule "retrodisasm"]
 	path = retrodisasm
 	url = https://github.com/retroenv/retrodisasm.git
