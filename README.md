@@ -33,6 +33,8 @@ Musen2 can be downloaded here:
 
 - [Linux](https://github.com/SourMesen/Mesen2/releases/download/2.1.1/Mesen_2.1.1_Linux_x64.zip)
 
+Place emulator in emulator folder
+
 ## References
 
 - [MOS 6502 Wikipedia page](https://fr.wikipedia.org/wiki/MOS_Technology_6502)
